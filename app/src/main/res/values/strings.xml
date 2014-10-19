@@ -4,5 +4,6 @@
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Today October 6, 2014</string>
     <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
 
 </resources>
